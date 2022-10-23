@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/my-money-react/static/css/main.bb92af40.chunk.css",
-    "main.js": "/my-money-react/static/js/main.14c3ab3c.chunk.js",
-    "main.js.map": "/my-money-react/static/js/main.14c3ab3c.chunk.js.map",
+    "main.js": "/my-money-react/static/js/main.9c76ceda.chunk.js",
+    "main.js.map": "/my-money-react/static/js/main.9c76ceda.chunk.js.map",
     "runtime-main.js": "/my-money-react/static/js/runtime-main.db911fc8.js",
     "runtime-main.js.map": "/my-money-react/static/js/runtime-main.db911fc8.js.map",
-    "static/js/2.30fe0ac5.chunk.js": "/my-money-react/static/js/2.30fe0ac5.chunk.js",
-    "static/js/2.30fe0ac5.chunk.js.map": "/my-money-react/static/js/2.30fe0ac5.chunk.js.map",
+    "static/js/2.514c1579.chunk.js": "/my-money-react/static/js/2.514c1579.chunk.js",
+    "static/js/2.514c1579.chunk.js.map": "/my-money-react/static/js/2.514c1579.chunk.js.map",
     "index.html": "/my-money-react/index.html",
     "static/css/main.bb92af40.chunk.css.map": "/my-money-react/static/css/main.bb92af40.chunk.css.map",
-    "static/js/2.30fe0ac5.chunk.js.LICENSE.txt": "/my-money-react/static/js/2.30fe0ac5.chunk.js.LICENSE.txt"
+    "static/js/2.514c1579.chunk.js.LICENSE.txt": "/my-money-react/static/js/2.514c1579.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db911fc8.js",
-    "static/js/2.30fe0ac5.chunk.js",
+    "static/js/2.514c1579.chunk.js",
     "static/css/main.bb92af40.chunk.css",
-    "static/js/main.14c3ab3c.chunk.js"
+    "static/js/main.9c76ceda.chunk.js"
   ]
 }
