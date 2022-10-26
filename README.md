@@ -1,3 +1,12 @@
+# Project is Live here
+### [https://venuyeggadi.github.io/my-money-react/](https://venuyeggadi.github.io/my-money-react/)
+### [https://mymoney-38e57.web.app/](https://mymoney-38e57.web.app/)
+<br>
+
+# Deploying to firebase
+Remove homepage property in package.json before building the project for deployment on the firebase.
+That homepage property is intended for Github actions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
