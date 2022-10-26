@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-money-react/static/css/main.bb92af40.chunk.css",
-    "main.js": "/my-money-react/static/js/main.5d742273.chunk.js",
-    "main.js.map": "/my-money-react/static/js/main.5d742273.chunk.js.map",
+    "main.css": "/my-money-react/static/css/main.99f234c4.chunk.css",
+    "main.js": "/my-money-react/static/js/main.1a0b4215.chunk.js",
+    "main.js.map": "/my-money-react/static/js/main.1a0b4215.chunk.js.map",
     "runtime-main.js": "/my-money-react/static/js/runtime-main.db911fc8.js",
     "runtime-main.js.map": "/my-money-react/static/js/runtime-main.db911fc8.js.map",
-    "static/js/2.3876e33d.chunk.js": "/my-money-react/static/js/2.3876e33d.chunk.js",
-    "static/js/2.3876e33d.chunk.js.map": "/my-money-react/static/js/2.3876e33d.chunk.js.map",
+    "static/js/2.1b938d90.chunk.js": "/my-money-react/static/js/2.1b938d90.chunk.js",
+    "static/js/2.1b938d90.chunk.js.map": "/my-money-react/static/js/2.1b938d90.chunk.js.map",
     "index.html": "/my-money-react/index.html",
-    "static/css/main.bb92af40.chunk.css.map": "/my-money-react/static/css/main.bb92af40.chunk.css.map",
-    "static/js/2.3876e33d.chunk.js.LICENSE.txt": "/my-money-react/static/js/2.3876e33d.chunk.js.LICENSE.txt"
+    "static/css/main.99f234c4.chunk.css.map": "/my-money-react/static/css/main.99f234c4.chunk.css.map",
+    "static/js/2.1b938d90.chunk.js.LICENSE.txt": "/my-money-react/static/js/2.1b938d90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.db911fc8.js",
-    "static/js/2.3876e33d.chunk.js",
-    "static/css/main.bb92af40.chunk.css",
-    "static/js/main.5d742273.chunk.js"
+    "static/js/2.1b938d90.chunk.js",
+    "static/css/main.99f234c4.chunk.css",
+    "static/js/main.1a0b4215.chunk.js"
   ]
 }
